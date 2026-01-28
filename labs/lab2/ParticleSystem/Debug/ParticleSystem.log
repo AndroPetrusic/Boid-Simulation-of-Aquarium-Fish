@@ -1,0 +1,5 @@
+﻿  ParticleSystem.cpp
+C:\Users\Korisnik\Desktop\FER\diplomski\1. semestar\RacunalnaGrafika\lab\lab2\ParticleSystem\ParticleSystem.cpp(93,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\Desktop\FER\diplomski\1. semestar\RacunalnaGrafika\lab\lab2\ParticleSystem\ParticleSystem.cpp(195,37): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Korisnik\Desktop\FER\diplomski\1. semestar\RacunalnaGrafika\lab\lab2\ParticleSystem\ParticleSystem.cpp(196,41): warning C4305: '-=': truncation from 'double' to 'float'
+  ParticleSystem.vcxproj -> C:\Users\Korisnik\Desktop\FER\diplomski\1. semestar\RacunalnaGrafika\lab\lab2\ParticleSystem\Debug\ParticleSystem.exe
